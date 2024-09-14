@@ -1,0 +1,6 @@
+.steperContainer{
+  width: 70%;
+  margin: auto  !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Shadow added */
+  background-color:#e3e1e1;
+  }

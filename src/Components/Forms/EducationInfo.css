@@ -1,0 +1,63 @@
+.EducationDetails {
+    padding: 2rem;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .EducaationForm {
+    padding: 2rem;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .Heading {
+    text-align: center;
+    color: purple;
+    margin-bottom: 2rem;
+  }
+  
+  .formContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .formControl {
+    width: 100%;
+  }
+  
+  .educationSelect {
+    width: 100%;
+  }
+  
+  .inputLabel {
+    color: purple !important;
+  }
+  
+  .errorMessage {
+    color: red;
+    margin-top: 0.5rem;
+  }
+  
+  .formLabel {
+    font-size: 1.1rem;
+    margin-left: 10%;
+    margin-bottom: 0.5rem;
+  }
+  
+  .radioGroup {
+    justify-content: center;
+  }
+  
+  .btnGroup {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+  }
+  
+  .btn, .submitBtn {
+    width: 45%;
+  }
+  
